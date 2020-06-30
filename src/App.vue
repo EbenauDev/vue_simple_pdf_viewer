@@ -16,11 +16,11 @@ export default {
 
 <style>
 body {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   background-color: #1d3754;
@@ -31,6 +31,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin: 20px;
+  padding: 0;
 }
 </style>
