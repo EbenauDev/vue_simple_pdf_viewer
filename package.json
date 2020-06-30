@@ -13,6 +13,8 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
+    "node-sass": "^4.14.1",
+    "pdfjs-dist": "^2.4.456",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
